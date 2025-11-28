@@ -1,4 +1,5 @@
 # My Portfolio Website
+![UI Preview](./public/portfolio.png)
 
 A sleek and animated React portfolio showcasing my projects, skills, and experience, built with smooth motion design and professional aesthetics.
 
